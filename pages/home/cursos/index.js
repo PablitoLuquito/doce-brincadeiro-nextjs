@@ -34,7 +34,7 @@ const Cursos = () => {
           <span className="p-1">Cursos Básicos</span>
           <section className="w-full my-3 rounded-md shad">
             <div>
-              <Image src={Simples} className=" rounded-t-md" />
+              <Image src={Simples} alt="Cupcakes" className=" rounded-t-md" />
               <div className="flex flex-col p-2 text-black">
                 <span className="self-end">R$ 149,99</span>
                 <span>Confeitaria Básica</span>
@@ -45,7 +45,11 @@ const Cursos = () => {
           <span className="p-1">Cursos Profissionalizante</span>
           <section className="w-full my-3 rounded-md shad">
             <div>
-              <Image src={Profissional} className=" rounded-t-md" />
+              <Image
+                src={Profissional}
+                alt="Confeiteira"
+                className=" rounded-t-md"
+              />
               <div className="flex flex-col p-2 text-black">
                 <span className="self-end">R$ 499,99</span>
                 <span>Confeitaria Profissional</span>

@@ -33,7 +33,11 @@ const Patissier = () => {
           <span className="p-1">Prontos para Entrega</span>
           <section className="w-full my-2 rounded-md shad">
             <div>
-              <Image src={BoloPote} className="rounded-t-md" />
+              <Image
+                src={BoloPote}
+                alt="Bolo de Pote"
+                className="rounded-t-md"
+              />
               <div className="flex flex-col p-2 text-black">
                 <span className="self-end">R$ 10,00</span>
                 <span>Bolo de Pote</span>
@@ -44,7 +48,11 @@ const Patissier = () => {
           <span className="p-1">Entregamos 24h</span>
           <section className="w-full my-2 rounded-md shad">
             <div>
-              <Image src={BoloPote} className="rounded-t-md" />
+              <Image
+                src={BoloPote}
+                alt="Bolo de Pote"
+                className="rounded-t-md"
+              />
               <div className="flex flex-col p-2 text-black">
                 <span className="self-end">R$ 10,00</span>
                 <span>Bolo de Pote</span>
