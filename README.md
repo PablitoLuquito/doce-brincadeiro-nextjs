@@ -15,3 +15,7 @@ https://tailwindcss.com/docs/installation
 ## CSS Module
 
 https://github.com/css-modules/css-modules
+
+# Deploy do site (Website Deployment)
+
+https://doce-brincadeiro-nextjs.vercel.app/
