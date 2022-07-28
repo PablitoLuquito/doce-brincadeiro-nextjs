@@ -9,12 +9,7 @@ import {
 const FoodNavItems = (props) => {
   return (
     <>
-      <NavItem
-        link="/home/food"
-        class={props.food}
-        icon={faTruck}
-        title="Food"
-      />
+      <NavItem link="/home" class={props.food} icon={faTruck} title="Food" />
       <NavItem
         link="/home/orders"
         class={props.orders}

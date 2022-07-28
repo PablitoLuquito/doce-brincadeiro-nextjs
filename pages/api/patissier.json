@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://conteudo.imguol.com.br/70/2020/02/14/bolo-de-pote-de-chocolate-de-elaine-ferreira-do-site-e-canal-no-youtube-cakepedia-1581689294275_v2_1x1.jpg",
+    "title": "Bolo de Chocolate",
+    "price": 10.0,
+    "desc": "Duas camadas de bolo de chocolate com recheio e cobertura de ganache de chocolate."
+  },
+  {
+    "id": 2,
+    "image": "https://amp.receitadevovo.com.br/wp-content/uploads/2020/10/bolo-no-pote-de-ninho-com-nutella.jpg",
+    "title": "Choconinho",
+    "price": 12.0,
+    "desc": "Duas camadas de bolo de chocolate, três camadas de recheio de ninho e cobertura de ganache de chocolate."
+  },
+  {
+    "id": 3,
+    "title": "Bolo de Morango",
+    "image": "https://i.ytimg.com/vi/TBJCx2nqz1g/maxresdefault.jpg",
+    "price": 10.0,
+    "desc": "Duas camadas de bolo de chocolate, duas camadas de recheio de morango e cobertura de ganache de chocolate."
+  }
+]

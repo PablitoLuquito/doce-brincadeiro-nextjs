@@ -48,7 +48,7 @@ const FoodCards = (props) => {
         <div className="flex flex-col gap-5 rounded-b-xl">
           <CardAddress address="Online" />
           <CardDescription description="Artisan Sausage truck is a spot for bomb sausage made from ground pork, beef, or poultry, along with salt, special blend of spices and other flavorings and combos.  Some sausages include other ingredients for flavor. Stop by, and check for yourself!" />
-          <CardButton label="Ver Produtos" cardButtonLink="home/cursos" />
+          <CardButton label="Ver Cursos" cardButtonLink="home/cursos" />
         </div>
       </Card>
     </>

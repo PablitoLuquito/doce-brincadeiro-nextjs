@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.itdg.com.br/tdg/images/blog/uploads/2017/02/shutterstock_205197814.jpg",
+    "title": "Bolos e Tortas",
+    "price": 99.99,
+    "desc": "Aprenda a confeitar vários sabores de bolos, cupcakes e tortas."
+  },
+  {
+    "id": 2,
+    "image": "https://claudia.abril.com.br/wp-content/uploads/2017/12/nelson-pantano.jpg",
+    "title": "Bolos de Casamento",
+    "price": 129.99,
+    "desc": "Aprenda a confeitar bolos de casamentos com as técnicas mais modernas do mercado!"
+  },
+  {
+    "id": 3,
+    "image": "https://www.topema.com/wp-content/uploads/2019/10/equipamentos-para-confeitaria.jpg",
+    "title": "Confeitaria Básica",
+    "price": 199.99,
+    "desc": "Descubra as melhores técnicas de confeitaria com este curso online grátis!"
+  },
+  {
+    "id": 4,
+    "title": "Confeitaria Profissional",
+    "image": "https://www.unicesumar.edu.br/blog/wp-content/uploads/2017/03/confeitaria-profissional.jpg",
+    "price": 499.99,
+    "desc": "Torne-se um profissional da confeitaria com nosso material completo!"
+  }
+]

@@ -39,7 +39,7 @@ const Settings = () => {
             />
           </div>
           <span>Profile Picture</span>
-          <div className="flex items-center justify-center w-full h-40 overflow-hidden bg-gray-100 border rounded-lg h-60">
+          <div className="flex items-center justify-center w-full overflow-hidden bg-gray-100 border rounded-lg h-60">
             <Image src={User} alt="Foto de Perfil" className="w-1/2" />
           </div>
           <span className="text-center text-orange-400 cursor-pointer">

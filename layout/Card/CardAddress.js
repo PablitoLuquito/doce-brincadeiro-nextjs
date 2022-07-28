@@ -5,10 +5,10 @@ import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 const CardAddress = (props) => {
   return (
     <div className="flex gap-2 px-4 mt-3 text-gray-500">
-      <span>
+      <i>
         <Icon icon={faLocationDot} />
-      </span>
-      <small className="text-sm font-medium">{props.address}</small>
+      </i>
+      <address className="text-sm font-medium">{props.address}</address>
     </div>
   );
 };

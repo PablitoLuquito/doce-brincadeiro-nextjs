@@ -51,7 +51,7 @@ const Login = () => {
               title="Password"
               placeholder="Enter password..."
             />
-            <Link href="/home/food">
+            <Link href="/home">
               <a className="w-full py-2 font-semibold text-center text-white uppercase bg-orange-400 hover:bg-orange-500 hover:font-bold btn rad">
                 Log In
               </a>
